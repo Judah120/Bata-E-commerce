@@ -599,8 +599,8 @@ label {
         width: 90%;
     }
     .sliderBackground {
-        width: 270px;
-        height: 270px;
+        width: 240px;
+        height: 240px;
     }
     .sliderTitle {
         display: none;
@@ -613,7 +613,7 @@ label {
         font-weight: 500;
     }
     .buyBtn {
-        bottom: 229px;
+        bottom: 206px;
         right: 1px;
         font-size: 20px;
         border-radius: 0;
@@ -635,7 +635,6 @@ label {
         display: flex;
         flex-direction: column;
         align-items: center;
-        height: auto;
     }
     .payment {
         width: 90%;
