@@ -678,6 +678,7 @@ label {
     .smalltext {
         font-size: 7px;
         padding-top: 3px;
+        font-weight: 600;
     }
     .salesTitle {
         font-size: 20px;
